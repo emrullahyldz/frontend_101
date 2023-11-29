@@ -1,0 +1,36 @@
+nav {
+  text-align: center;
+}
+
+.baslik {
+  color: red;
+}
+
+.menu, .urunler, ol {
+  list-style-type: none;
+}
+
+.menu-item {
+  display: inline;
+  margin-right: 20px;
+}
+
+h2,h3, p {
+  text-align: center;
+}
+
+h2, h3 {
+  color: blue;
+}
+
+.urunler-item {
+  text-align: center;
+}
+
+.urunler-sayfasi {
+  text-align: center;
+}
+
+img {
+  width: 200px;
+}
